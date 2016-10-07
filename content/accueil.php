@@ -4,7 +4,7 @@
            <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="info col-xs-4">
-                        <h5> Livraison 48 à 72h</h5>
+                        <h5> Livraison  48 à 72h</h5>
                     </div>
                     <div class="info col-xs-4">
                         <h5> Paiement 100% sécurisé</h5>
